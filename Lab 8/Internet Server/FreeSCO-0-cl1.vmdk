@@ -1,0 +1,22 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=fffffffe
+parentCID=ffffffff
+isNativeSnapshot="no"
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 2097152 SPARSE "FreeSCO-0-cl1-s001.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "ide"
+ddb.deletable = "true"
+ddb.geometry.cylinders = "2080"
+ddb.geometry.heads = "16"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "26b13ab32091f1443bd237a6e59e992a"
+ddb.uuid = "60 00 C2 98 da e7 47 07-ef 01 79 fe 69 77 18 0d"
+ddb.virtualHWVersion = "10"

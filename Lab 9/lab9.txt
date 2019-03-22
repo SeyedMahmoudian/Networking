@@ -1,0 +1,51 @@
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Qualcomm Atheros AR8171/8175 PCI-E Gigabi
+t Ethernet Controller (NDIS 6.30)
+   Physical Address. . . . . . . . . : 60-02-92-25-F1-B5
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Qualcomm Atheros AR8171/8175 PCI-E Gigabi
+t Ethernet Controller (NDIS 6.30)
+   Physical Address. . . . . . . . . : 60-02-92-25-F1-B5
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d07a:4d03:f863:ff91%4(Preferred)
+   Default Gateway . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 291504786
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1B-47-F3-53-60-02-92-25-F1-B5
+
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : local.com
+   Description . . . . . . . . . . . : Qualcomm Atheros AR8171/8175 PCI-E Gigabi
+t Ethernet Controller (NDIS 6.30)
+   Physical Address. . . . . . . . . : 60-02-92-25-F1-B5
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2001:0:8103:1ab9:d07a:4d03:f863:ff91(Pref
+erred)
+   Temporary IPv6 Address. . . . . . : 2001:0:8103:1ab9:b8b4:eaae:bfc5:9118(Pref
+erred)
+   Link-local IPv6 Address . . . . . : fe80::d07a:4d03:f863:ff91%4(Preferred)
+   Default Gateway . . . . . . . . . : fe80::1%4
+   DHCPv6 IAID . . . . . . . . . . . : 291504786
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1B-47-F3-53-60-02-92-25-F1-B5
+
+   DNS Servers . . . . . . . . . . . : 2001:0:8103:1ab9::1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+   Connection-specific DNS Suffix Search List :
+                                       local.com

@@ -1,2 +1,2 @@
 # Networking
-Labs from networking
+This repository is for Networking skills demonstrations.
